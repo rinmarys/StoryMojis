@@ -1,0 +1,57 @@
+body {
+    background-color: #F7FBFF;
+}
+
+.site-name {
+    font-family: 'Ingrid Darling';
+    font-size: 6vw;
+    font-weight: 100;
+    color: #605D85;
+    width: fit-content;
+    text-align: center;
+    /* margin-left: 5vw; */
+    /* border: 1px solid red; */
+    letter-spacing: 0.2vw;
+}
+
+.container-alinhamento-um {
+    width: 30vw;
+    background-color: #BFC2D2;
+    border-radius: 1.5vw;
+    margin-top: 4vw;
+    margin-left: 5vw;
+    border: 1px solid transparent;
+}
+
+.container-alinhamento-gameExplanation{
+/* border: 1px solid red; */
+    width: fit-content;
+    margin-left: 4vw;
+}
+
+.game-explanation {
+    font-family: 'Imprima';
+    width: 20vw;
+    text-align: center;
+    color: #353262;
+    opacity: 0.8;
+    /* margin-bottom: 1vw; */
+    margin-top: -1.5vw;
+    margin-left: 0.5vw;
+    font-size: 1vw;
+}
+
+.button-game{
+    /* border: 1px solid red; */
+    border: none;
+    background-color: #605D85;
+    color: #F7FBFF;
+    font-size: 1.3vw;
+    font-family: 'imprima';
+    padding: 0.6vw;
+    width: 10vw;
+    border-radius: 3vw;
+    margin-left: 5.3vw;
+    margin-top: 2vw;
+    margin-bottom: 3vw;
+}
