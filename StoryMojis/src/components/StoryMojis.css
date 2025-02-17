@@ -109,8 +109,8 @@ body {
 }
 
 .estrela-roxinha {
-    margin-bottom: -7vw;
-    margin-left: -20vw;
+    margin-bottom: -10vw;
+    margin-left: -5vw;
 }
 
 
@@ -150,8 +150,8 @@ body {
 
     .estrela-roxinha{
         width: 14vw;
-        margin-top: -10vw;
-        margin-left: -1vw;
+        margin-top: -7vw;
+        margin-left: -3vw;
     }
 
     .button-game{
@@ -166,7 +166,7 @@ body {
         align-items: center;
         justify-content: center;
         display: flex;
-        margin-top: 9vw;
+        margin-top: 4vw;
 
     }
 
